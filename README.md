@@ -36,4 +36,16 @@ Per cambiarle basta sostituire il PNG con lo stesso nome e rilanciare `npm run b
 
 ## Pubblicazione
 
-Caricare l'intera cartella su qualsiasi hosting statico (Netlify, Vercel, GitHub Pages).
+Il sito è online su GitHub Pages: https://carlottaghinassi-maker.github.io/
+(repository `carlottaghinassi-maker/carlottaghinassi-maker.github.io`, ramo `main`).
+
+Per pubblicare una modifica:
+
+```
+npm run build
+git add -A
+git commit -m "Descrizione della modifica"
+git push
+```
+
+Dopo il push GitHub aggiorna il sito in circa un minuto.
