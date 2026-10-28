@@ -486,7 +486,7 @@ html.no-intro .brand-mark { animation: none; }
 }
 
 .project-meta { grid-column: span 5; container-type: inline-size; }
-.project-intro .bodycopy-text { grid-column: span 6; margin-top: 0.3rem; }
+.project-intro .bodycopy-text { grid-column: 6 / -1; margin-top: 0.3rem; }
 
 /* Titolo del progetto a righe, come il logo all'avvio. La dimensione segue la larghezza
    della colonna, così anche la parola più lunga ("Photography", "Thresholds") ci sta intera. */
@@ -524,6 +524,9 @@ html.no-intro .brand-mark { animation: none; }
 	flex: 10 1 0;
 }
 
+.gallery.is-uniform .media,
+.gallery.is-uniform .media img { aspect-ratio: var(--fixed-ar); }
+
 .gallery-label {
 	font-family: var(--pixel);
 	font-size: 1.6rem;
@@ -550,8 +553,11 @@ html.no-intro .brand-mark { animation: none; }
 	border-top: 2px solid var(--red);
 }
 
+.section-label { grid-column: span 5; }
+
+.section-year { margin-top: 0.5rem; }
+
 .section-title {
-	grid-column: span 3;
 	font-family: var(--display);
 	font-weight: 800;
 	font-stretch: 100%;
@@ -572,7 +578,21 @@ html.no-intro .brand-mark { animation: none; }
 	vertical-align: -0.08em;
 }
 
-.section-head .bodycopy-text { grid-column: span 6; }
+.section-head .bodycopy-text { grid-column: 6 / -1; }
+
+/* Accordion (Fotografia analogica): chiuso mostra solo titolo e anno. */
+.project-section.accordion { margin-bottom: 1.2rem; }
+.accordion > summary { position: relative; list-style: none; cursor: pointer; margin-bottom: 0; padding-bottom: 1.6rem; }
+.accordion > summary::-webkit-details-marker { display: none; }
+.accordion > summary:focus-visible { outline: 2px solid var(--green); outline-offset: 4px; }
+.accordion-sign { position: absolute; top: 0.6rem; right: 0; font-family: var(--pixel); font-size: 2.2rem; line-height: 1; color: var(--green); }
+.accordion-sign::before { content: "+"; }
+.accordion[open] .accordion-sign::before { content: "\2212"; }
+.accordion > summary:hover .section-title { color: var(--green); }
+.accordion-body { padding-bottom: 2.4rem; }
+.accordion > summary .bodycopy-text { grid-column: 6 / 12; }
+.accordion:not([open]) > summary .bodycopy-text { display: none; }
+.accordion[open] > summary { padding-bottom: 2.4rem; }
 
 /* ---------- Overlay ---------- */
 
@@ -1015,6 +1035,7 @@ html.no-intro .brand-mark { animation: none; }
 	.sections { margin-top: 2.5rem; }
 	.section-head { display: block; margin-bottom: 1.6rem; }
 	.section-head .bodycopy-text { margin-top: 1rem; }
+	.accordion > summary.section-head { display: block; margin-bottom: 0; padding-right: 2rem; }
 	.project-section { margin-bottom: 3.5rem; }
 	.gallery { grid-template-columns: repeat(var(--mcols), minmax(0, 1fr)); }
 	.gallery.is-justified { --row-h: 8rem !important; gap: 0.5rem; }

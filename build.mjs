@@ -69,12 +69,12 @@ function getMedia(slug, key) {
 }
 
 // Renders one media item. `zoom` adds the quick-view lightbox, `href` turns it into a link.
-function mediaItem(A, slug, key, { zoom = true, href = null, eager = false, alt = '' } = {}) {
+function mediaItem(A, slug, key, { zoom = true, href = null, eager = false, alt = '', focus = null } = {}) {
   const m = getMedia(slug, key);
   const ratio = `--ar:${m.w}/${m.h}`;
   const inner = m.type === 'video'
     ? `<video data-src="${A}assets/media/${m.src}" poster="${A}assets/media/${m.poster}" width="${m.w}" height="${m.h}" muted loop playsinline preload="none"></video>`
-    : `<img src="${A}assets/media/${m.src}" width="${m.w}" height="${m.h}" alt="${esc(alt)}"${eager ? '' : ' loading="lazy"'} decoding="async">`;
+    : `<img src="${A}assets/media/${m.src}" width="${m.w}" height="${m.h}" alt="${esc(alt)}"${eager ? '' : ' loading="lazy"'} decoding="async"${focus ? ` style="object-position:${focus}"` : ''}>`;
   const cls = `media${zoom && !href ? ' zoomable' : ''}`;
   if (href) return `<a class="${cls} media-link" href="${href}" style="${ratio}">${inner}</a>`;
   return `<figure class="${cls}" style="${ratio}">${inner}</figure>`;
@@ -86,17 +86,28 @@ function gallery(A, slug, g, alt) {
   // 'altra-cartella:chiave' prende il media da un'altra cartella di assets/media.
   const item = (k) => (k.includes(':') ? mediaItem(A, ...k.split(':'), { alt }) : mediaItem(A, slug, k, { alt }));
   // `justify`: righe ad altezza uniforme (per immagini con proporzioni diverse).
-  const cls = g.justify ? 'gallery is-justified' : 'gallery';
+  // `ratio`: stesso formato per tutte le foto (ritagliate al centro), es. '2/3'.
+  const cls = g.justify ? 'gallery is-justified' : g.ratio ? 'gallery is-uniform' : 'gallery';
   const rowH = g.justify ? `;--row-h:${g.justify}rem` : '';
-  return `${label}<div class="${cls}" style="--cols:${g.cols};--mcols:${mobile}${rowH}">${g.items.map(item).join('')}</div>`;
+  const fixed = g.ratio ? `;--fixed-ar:${g.ratio}` : '';
+  return `${label}<div class="${cls}" style="--cols:${g.cols};--mcols:${mobile}${rowH}${fixed}">${g.items.map(item).join('')}</div>`;
 }
 
 // Sezione di progetto: titolo e testo di spiegazione in evidenza, poi le gallerie.
 function section(A, slug, sec, alt) {
   const text = sec.text ? `<div class="bodycopy-text">${sec.text.join('<br><br>')}</div>` : '';
+  // Sezioni con data (Fotografia analogica): accordion chiuso con solo titolo e anno.
+  if (sec.year) {
+    return `<details class="project-section accordion">
+<summary class="section-head"><div class="section-label"><h2 class="section-title">${esc(sec.label)}</h2><div class="tags section-year">${sec.year}</div></div>${text}<span class="accordion-sign" aria-hidden="true"></span></summary>
+<div class="accordion-body">
+${(sec.galleries || []).map((g) => gallery(A, slug, g, alt)).join('\n')}
+</div>
+</details>`;
+  }
   return `<section class="project-section">
 <hr>
-<div class="section-head"><h2 class="section-title">${esc(sec.label)}</h2>${text}</div>
+<div class="section-head"><div class="section-label"><h2 class="section-title">${esc(sec.label)}</h2></div>${text}</div>
 ${(sec.galleries || []).map((g) => gallery(A, slug, g, alt)).join('\n')}
 </section>`;
 }
@@ -134,7 +145,7 @@ function worksList(c, current) {
   const rows = c.PROJECTS.map((pr) => {
     const href = `${c.L}progetti/${pr.slug}/`;
     const act = pr.slug === current ? ' class="active"' : '';
-    return `<div class="w-row"><span><a href="${href}"${act}>${esc(pr.title)}</a></span><span><a href="${href}"${act}>${esc(pr.category)}</a></span><span class="w-year"><a href="${href}"${act}>${pr.year}</a></span></div>`;
+    return `<div class="w-row"><span><a href="${href}"${act}>${esc(pr.title)}</a></span><span><a href="${href}"${act}>${esc(pr.category)}</a></span><span class="w-year"><a href="${href}"${act}>${pr.year ?? ''}</a></span></div>`;
   }).join('\n');
   const arch = current === 'archivio' ? ' class="active"' : '';
   const mq = esc(c.S.archiveMarquee.repeat(3));
@@ -241,7 +252,10 @@ ${alt}
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,400..900;1,62..125,400..900&family=IBM+Plex+Mono:ital,wght@0,400;0,500;1,400&family=VT323&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="${A}assets/css/style.css">
-<script>try{if(sessionStorage.getItem('intro'))document.documentElement.classList.add('no-intro');sessionStorage.setItem('intro','1')}catch(e){}</script>
+<script>(function(){var seen=false;try{seen=document.referrer&&new URL(document.referrer).host===location.host}catch(e){}
+try{if(sessionStorage.getItem('intro'))seen=true;sessionStorage.setItem('intro','1')}catch(e){}
+try{var t=+localStorage.getItem('intro-at');if(Date.now()-t<36e5)seen=true;localStorage.setItem('intro-at',Date.now())}catch(e){}
+if(seen)document.documentElement.classList.add('no-intro')})()</script>
 </head>
 <body class="${bodyClass}">
 
@@ -307,16 +321,16 @@ for (const lang of LANGS) {
   {
     const c = ctx('');
     const link = (pr) => `${c.L}progetti/${pr.slug}/`;
-    const slides = c.PROJECTS.map((pr) => mediaItem(c.A, ...homeMedia(pr), { href: link(pr), eager: true, alt: strip(pr.title) }));
+    const slides = c.PROJECTS.map((pr) => mediaItem(c.A, ...homeMedia(pr), { href: link(pr), eager: true, alt: strip(pr.title), focus: pr.homeFocus }));
     const main = `<div class="home">
 <div class="screen">
-<div class="slideshow" aria-label="Selected works">${slides.map((s, i) => { const pr = c.PROJECTS[i]; return `<div class="slide${i === 0 ? ' is-active' : ''}" data-title="${esc(strip(pr.title))}" data-cat="${esc(pr.category)}" data-year="${pr.year}">${s}</div>`; }).join('')}</div>
+<div class="slideshow" aria-label="Selected works">${slides.map((s, i) => { const pr = c.PROJECTS[i]; return `<div class="slide${i === 0 ? ' is-active' : ''}" data-title="${esc(strip(pr.title))}" data-cat="${esc(pr.category)}" data-year="${pr.year ?? ''}">${s}</div>`; }).join('')}</div>
 <div class="screen-caption" aria-hidden="true">
-<div class="sc-row"><span class="sc-label">${esc(c.U.select)}</span><span class="sc-title">[${esc(strip(c.PROJECTS[0].title))}]</span><span class="sc-year">${c.PROJECTS[0].year}</span></div>
+<div class="sc-row"><span class="sc-label">${esc(c.U.select)}</span><span class="sc-title">[${esc(strip(c.PROJECTS[0].title))}]</span><span class="sc-year">${c.PROJECTS[0].year ?? ''}</span></div>
 <div class="sc-row"><span class="sc-cat">${esc(c.PROJECTS[0].category)}</span><span class="sc-loading">${esc(c.U.loading)}...</span><span class="sc-bar"><i></i></span></div>
 </div>
 </div>
-<div class="home-grid">${c.PROJECTS.map((pr) => mediaItem(c.A, ...homeMedia(pr), { href: link(pr), alt: strip(pr.title) })).join('')}</div>
+<div class="home-grid">${c.PROJECTS.map((pr) => mediaItem(c.A, ...homeMedia(pr), { href: link(pr), alt: strip(pr.title), focus: pr.homeFocus })).join('')}</div>
 </div>`;
     write(`${base}index.html`, layout(c, { title: '', current: null, bodyClass: 'is-home', main }));
   }
@@ -327,7 +341,7 @@ for (const lang of LANGS) {
     const main = `<article class="project">
 <div class="index-link"><h2>${homeLink(c.L)}</h2></div>
 <div class="project-intro">
-<div class="project-meta"><h1 class="project-title striped">${esc(pr.title)}</h1><div class="tags">${pr.year}<br>${esc(pr.category)}<br>${esc(pr.tags)}</div></div>
+<div class="project-meta"><h1 class="project-title striped">${esc(pr.title)}</h1><div class="tags">${pr.year ? `${pr.year}<br>` : ''}${esc(pr.category)}<br>${esc(pr.tags)}</div></div>
 <div class="bodycopy-text">${pr.text.join('<br><br>')}</div>
 </div>
 <div class="sections">

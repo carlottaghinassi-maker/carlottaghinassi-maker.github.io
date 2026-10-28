@@ -85,6 +85,7 @@ Rometti Ceramiche<br>Libro del centenario`,
 // un testo di spiegazione e le sue gallerie (`cols` = colonne).
 // Un elemento 'archivio:tesi-10' prende l'immagine da un'altra cartella.
 // `home`: media della slideshow in homepage (se manca assets/media/home/<slug>.png).
+// `homeFocus`: punto dell'immagine da tenere al centro nel riquadro della home (object-position).
 export const projects = [
   {
     slug: 'te-fini-hai-finito',
@@ -253,59 +254,6 @@ export const projects = [
     ],
   },
   {
-    slug: 'lisola-doro',
-    title: 'L’Isola d’Oro',
-    category: 'Packaging',
-    tags: 'Packaging, Redesign, Illustrazione',
-    year: 2025,
-    home: 'foto-1',
-    cover: 'barattolo',
-    text: [
-      'L’Isola d’Oro è una storica azienda di Parma che dal 1958 produce conserve ittiche. Il progetto ripensa le etichette della linea di sughi per renderle più contemporanee e far spiccare il prodotto sullo scaffale. Grafica III — Design dell’imballaggio.',
-    ],
-    sections: [
-      {
-        label: 'Brief',
-        text: [
-          'Le etichette di partenza usano un linguaggio visivo superato, in stile cartoon anni ’90, che svaluta la qualità del prodotto. Le fotografie sono piatte e i collage di ingredienti artificiali; l’eccesso di font, bollini e claim crea rumore visivo e impedisce di trovare subito le informazioni importanti. Colori saturi, finiture lucide e grafiche ingenue posizionano il prodotto in una fascia low-cost.',
-        ],
-        galleries: [
-          { cols: 3, items: ['prima-aliciotte', 'prima-seppia', 'prima-vongolotte'] },
-        ],
-      },
-      {
-        label: 'Etichette',
-        text: [
-          'La fotografia lascia il posto all’illustrazione degli ingredienti. Il lettering è semplificato con il FREITAG, che restituisce un’idea di onda e di mare, e il pesce del logo diventa una piccola illustrazione. L’obiettivo non era rendere il prodotto esclusivo, ma ripulirne l’immagine e semplificarne la lettura.',
-          'Barattolo alto circa 9,5–10 cm con diametro di 6,5 cm, tappo twist-off da 63 mm, etichetta di 16 × 6 cm. Palette principale blu #1B75BB, bianco e nero; palette secondaria che cambia con gli ingredienti.',
-        ],
-        galleries: [
-          { cols: 1, items: ['etichetta-seppia'] },
-          { cols: 1, items: ['etichetta-vongolotte'] },
-          { cols: 1, items: ['etichetta-aliciotte'] },
-          { cols: 2, items: ['etichetta-vongolotte-piatta', 'etichetta-aliciotte-piatta'] },
-          { cols: 3, items: ['logotipo', 'marchio', 'barattolo'] },
-        ],
-      },
-      {
-        label: 'Comunicazione',
-        text: ['Il lancio del nuovo sugo al nero di seppia sul sito e i biglietti da visita.'],
-        galleries: [
-          { cols: 1, items: ['computer'] },
-          { cols: 3, items: ['biglietti-tavolo', 'biglietto-fronte', 'biglietto-retro'] },
-        ],
-      },
-      {
-        label: 'Prototipo',
-        text: ['Il barattolo stampato e fotografato.'],
-        galleries: [
-          { cols: 2, items: ['foto-1', 'foto-2', 'foto-3', 'foto-4'] },
-          { cols: 3, items: ['foto-5', 'foto-6', 'tappo'] },
-        ],
-      },
-    ],
-  },
-  {
     slug: 'dolly-noire-stamp',
     title: 'Dolly Noire Stamp',
     category: 'Lettering',
@@ -392,6 +340,59 @@ export const projects = [
     ],
   },
   {
+    slug: 'lisola-doro',
+    title: 'L’Isola d’Oro',
+    category: 'Packaging',
+    tags: 'Packaging, Redesign, Illustrazione',
+    year: 2025,
+    home: 'foto-1',
+    cover: 'barattolo',
+    text: [
+      'L’Isola d’Oro è una storica azienda di Parma che dal 1958 produce conserve ittiche. Il progetto ripensa le etichette della linea di sughi per renderle più contemporanee e far spiccare il prodotto sullo scaffale. Grafica III — Design dell’imballaggio.',
+    ],
+    sections: [
+      {
+        label: 'Brief',
+        text: [
+          'Le etichette di partenza usano un linguaggio visivo superato, in stile cartoon anni ’90, che svaluta la qualità del prodotto. Le fotografie sono piatte e i collage di ingredienti artificiali; l’eccesso di font, bollini e claim crea rumore visivo e impedisce di trovare subito le informazioni importanti. Colori saturi, finiture lucide e grafiche ingenue posizionano il prodotto in una fascia low-cost.',
+        ],
+        galleries: [
+          { cols: 3, items: ['prima-aliciotte', 'prima-seppia', 'prima-vongolotte'] },
+        ],
+      },
+      {
+        label: 'Etichette',
+        text: [
+          'La fotografia lascia il posto all’illustrazione degli ingredienti. Il lettering è semplificato con il FREITAG, che restituisce un’idea di onda e di mare, e il pesce del logo diventa una piccola illustrazione. L’obiettivo non era rendere il prodotto esclusivo, ma ripulirne l’immagine e semplificarne la lettura.',
+          'Barattolo alto circa 9,5–10 cm con diametro di 6,5 cm, tappo twist-off da 63 mm, etichetta di 16 × 6 cm. Palette principale blu #1B75BB, bianco e nero; palette secondaria che cambia con gli ingredienti.',
+        ],
+        galleries: [
+          { cols: 1, items: ['etichetta-seppia'] },
+          { cols: 1, items: ['etichetta-vongolotte'] },
+          { cols: 1, items: ['etichetta-aliciotte'] },
+          { cols: 2, items: ['etichetta-vongolotte-piatta', 'etichetta-aliciotte-piatta'] },
+          { cols: 3, items: ['logotipo', 'marchio', 'barattolo'] },
+        ],
+      },
+      {
+        label: 'Comunicazione',
+        text: ['Il lancio del nuovo sugo al nero di seppia sul sito e i biglietti da visita.'],
+        galleries: [
+          { cols: 1, items: ['computer'] },
+          { cols: 3, items: ['biglietti-tavolo', 'biglietto-fronte', 'biglietto-retro'] },
+        ],
+      },
+      {
+        label: 'Prototipo',
+        text: ['Il barattolo stampato e fotografato.'],
+        galleries: [
+          { cols: 2, items: ['foto-1', 'foto-2', 'foto-3', 'foto-4'] },
+          { cols: 3, items: ['foto-5', 'foto-6', 'tappo'] },
+        ],
+      },
+    ],
+  },
+  {
     slug: 'farcito',
     title: 'Farcito',
     category: 'Illustrazione',
@@ -438,8 +439,8 @@ export const projects = [
     title: 'Fotografia analogica',
     category: 'Fotografia',
     tags: 'Fotografia analogica',
-    year: 2025,
     home: 'mostra-foto',
+    homeFocus: '50% 75%',
     cover: 'mostra-foto',
     text: [
       'Raccolte di fotografie su pellicola: il viaggio in Giappone, la quotidianità delle nonne da cui è nata la tesi, una sperimentazione notturna sull’orto. Uno scatto è stato selezionato ed esposto a Tokyo alla The Holy Art Gallery.',
@@ -447,6 +448,7 @@ export const projects = [
     sections: [
       {
         label: 'The Holy Art Gallery, Tokyo',
+        year: 2025,
         text: ['Nel 2025 la fotografia dei panni stesi al sole, tra prato e montagne, è stata selezionata per la mostra collettiva della The Holy Art Gallery a Tokyo.'],
         galleries: [
           { cols: 2, items: ['mostra-foto', 'mostra-locandina'] },
@@ -455,13 +457,15 @@ export const projects = [
       },
       {
         label: 'Giappone',
+        year: 2025,
         text: ['Strade, mercati, cucine e vagoni della metropolitana: un diario su pellicola, quasi tutto in bianco e nero.'],
         galleries: [
-          { cols: 3, items: range('giappone', 15) },
+          { cols: 3, ratio: '2/3', items: range('giappone', 15) },
         ],
       },
       {
         label: 'Tesi',
+        year: 2025,
         text: ['Le foto usate per <i>Te Fini, Tesi</i>: una documentazione spontanea delle nonne in cucina, nata per avere un loro ricordo su pellicola e diventata poi il cuore del progetto editoriale.'],
         galleries: [
           { cols: 3, justify: 22, items: range('tesi', 17) },
@@ -469,6 +473,7 @@ export const projects = [
       },
       {
         label: 'Sperimentazione',
+        year: 2025,
         text: ['Le piante di pomodoro di notte, tra flash, cielo al tramonto e sovrapposizioni di colore.'],
         galleries: [
           { cols: 1, items: ['sperimentazione-1'] },
