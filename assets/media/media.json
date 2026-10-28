@@ -1,0 +1,2717 @@
+{
+ "te-fini-hai-finito": {
+  "spread-cotolette": {
+   "type": "video",
+   "src": "te-fini-hai-finito/spread-cotolette.mp4",
+   "poster": "te-fini-hai-finito/spread-cotolette.jpg",
+   "w": 768,
+   "h": 960
+  },
+  "3d-cappelletti-rosa": {
+   "type": "video",
+   "src": "te-fini-hai-finito/3d-cappelletti-rosa.mp4",
+   "poster": "te-fini-hai-finito/3d-cappelletti-rosa.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  "booklet-ventaglio": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-ventaglio.jpg",
+   "w": 1804,
+   "h": 990
+  },
+  "booklet-serie": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-serie.jpg",
+   "w": 2200,
+   "h": 1015
+  },
+  "ricerca-fotografica-1": {
+   "type": "image",
+   "src": "te-fini-hai-finito/ricerca-fotografica-1.jpg",
+   "w": 2200,
+   "h": 544
+  },
+  "ricerca-fotografica-2": {
+   "type": "image",
+   "src": "te-fini-hai-finito/ricerca-fotografica-2.jpg",
+   "w": 2200,
+   "h": 544
+  },
+  "moodboard": {
+   "type": "image",
+   "src": "te-fini-hai-finito/moodboard.jpg",
+   "w": 2200,
+   "h": 1077
+  },
+  "tipografia": {
+   "type": "image",
+   "src": "te-fini-hai-finito/tipografia.jpg",
+   "w": 2200,
+   "h": 1040
+  },
+  "disegni-copertina": {
+   "type": "image",
+   "src": "te-fini-hai-finito/disegni-copertina.jpg",
+   "w": 1364,
+   "h": 1040
+  },
+  "covers": {
+   "type": "image",
+   "src": "te-fini-hai-finito/covers.jpg",
+   "w": 2200,
+   "h": 1015
+  },
+  "grazie": {
+   "type": "image",
+   "src": "te-fini-hai-finito/grazie.jpg",
+   "w": 2200,
+   "h": 1237
+  },
+  "3d-cappelletti-verdi": {
+   "type": "video",
+   "src": "te-fini-hai-finito/3d-cappelletti-verdi.mp4",
+   "poster": "te-fini-hai-finito/3d-cappelletti-verdi.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  "3d-garganelli": {
+   "type": "video",
+   "src": "te-fini-hai-finito/3d-garganelli.mp4",
+   "poster": "te-fini-hai-finito/3d-garganelli.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  "3d-lasagne": {
+   "type": "video",
+   "src": "te-fini-hai-finito/3d-lasagne.mp4",
+   "poster": "te-fini-hai-finito/3d-lasagne.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  "3d-pollo-arrosto": {
+   "type": "video",
+   "src": "te-fini-hai-finito/3d-pollo-arrosto.mp4",
+   "poster": "te-fini-hai-finito/3d-pollo-arrosto.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  "3d-coniglio": {
+   "type": "video",
+   "src": "te-fini-hai-finito/3d-coniglio.mp4",
+   "poster": "te-fini-hai-finito/3d-coniglio.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  "3d-cotolette": {
+   "type": "video",
+   "src": "te-fini-hai-finito/3d-cotolette.mp4",
+   "poster": "te-fini-hai-finito/3d-cotolette.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  "3d-rane": {
+   "type": "video",
+   "src": "te-fini-hai-finito/3d-rane.mp4",
+   "poster": "te-fini-hai-finito/3d-rane.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  "3d-latte-broulet": {
+   "type": "video",
+   "src": "te-fini-hai-finito/3d-latte-broulet.mp4",
+   "poster": "te-fini-hai-finito/3d-latte-broulet.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  "3d-crema": {
+   "type": "video",
+   "src": "te-fini-hai-finito/3d-crema.mp4",
+   "poster": "te-fini-hai-finito/3d-crema.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  "3d-crostata": {
+   "type": "video",
+   "src": "te-fini-hai-finito/3d-crostata.mp4",
+   "poster": "te-fini-hai-finito/3d-crostata.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  "3d-torta-di-mele": {
+   "type": "video",
+   "src": "te-fini-hai-finito/3d-torta-di-mele.mp4",
+   "poster": "te-fini-hai-finito/3d-torta-di-mele.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  "spread-cappelletti-1": {
+   "type": "video",
+   "src": "te-fini-hai-finito/spread-cappelletti-1.mp4",
+   "poster": "te-fini-hai-finito/spread-cappelletti-1.jpg",
+   "w": 768,
+   "h": 960
+  },
+  "spread-cappelletti-2": {
+   "type": "video",
+   "src": "te-fini-hai-finito/spread-cappelletti-2.mp4",
+   "poster": "te-fini-hai-finito/spread-cappelletti-2.jpg",
+   "w": 768,
+   "h": 960
+  },
+  "spread-garganelli": {
+   "type": "video",
+   "src": "te-fini-hai-finito/spread-garganelli.mp4",
+   "poster": "te-fini-hai-finito/spread-garganelli.jpg",
+   "w": 768,
+   "h": 960
+  },
+  "spread-lasagne": {
+   "type": "video",
+   "src": "te-fini-hai-finito/spread-lasagne.mp4",
+   "poster": "te-fini-hai-finito/spread-lasagne.jpg",
+   "w": 768,
+   "h": 960
+  },
+  "spread-arrosto": {
+   "type": "video",
+   "src": "te-fini-hai-finito/spread-arrosto.mp4",
+   "poster": "te-fini-hai-finito/spread-arrosto.jpg",
+   "w": 768,
+   "h": 960
+  },
+  "spread-coniglio": {
+   "type": "video",
+   "src": "te-fini-hai-finito/spread-coniglio.mp4",
+   "poster": "te-fini-hai-finito/spread-coniglio.jpg",
+   "w": 768,
+   "h": 960
+  },
+  "spread-rane": {
+   "type": "video",
+   "src": "te-fini-hai-finito/spread-rane.mp4",
+   "poster": "te-fini-hai-finito/spread-rane.jpg",
+   "w": 768,
+   "h": 960
+  },
+  "spread-latte-broulet": {
+   "type": "video",
+   "src": "te-fini-hai-finito/spread-latte-broulet.mp4",
+   "poster": "te-fini-hai-finito/spread-latte-broulet.jpg",
+   "w": 768,
+   "h": 960
+  },
+  "spread-crema": {
+   "type": "video",
+   "src": "te-fini-hai-finito/spread-crema.mp4",
+   "poster": "te-fini-hai-finito/spread-crema.jpg",
+   "w": 768,
+   "h": 960
+  },
+  "spread-crostata": {
+   "type": "video",
+   "src": "te-fini-hai-finito/spread-crostata.mp4",
+   "poster": "te-fini-hai-finito/spread-crostata.jpg",
+   "w": 768,
+   "h": 960
+  },
+  "spread-torta-di-mele": {
+   "type": "video",
+   "src": "te-fini-hai-finito/spread-torta-di-mele.mp4",
+   "poster": "te-fini-hai-finito/spread-torta-di-mele.jpg",
+   "w": 768,
+   "h": 960
+  },
+  "booklet-cappelletti-marilena-01": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-marilena-01.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-cappelletti-marilena-02": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-marilena-02.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-marilena-03": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-marilena-03.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-marilena-04": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-marilena-04.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-marilena-05": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-marilena-05.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-marilena-06": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-marilena-06.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-marilena-07": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-marilena-07.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-marilena-08": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-marilena-08.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-marilena-09": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-marilena-09.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-marilena-10": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-marilena-10.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-marilena-11": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-marilena-11.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-cappelletti-luciana-01": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-luciana-01.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-cappelletti-luciana-02": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-luciana-02.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-luciana-03": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-luciana-03.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-luciana-04": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-luciana-04.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-luciana-05": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-luciana-05.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-luciana-06": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-luciana-06.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-luciana-07": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-luciana-07.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-luciana-08": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-luciana-08.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-luciana-09": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-luciana-09.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-luciana-10": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-luciana-10.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cappelletti-luciana-11": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cappelletti-luciana-11.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-garganelli-marilena-01": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-garganelli-marilena-01.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-garganelli-marilena-02": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-garganelli-marilena-02.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-garganelli-marilena-03": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-garganelli-marilena-03.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-garganelli-marilena-04": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-garganelli-marilena-04.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-garganelli-marilena-05": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-garganelli-marilena-05.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-garganelli-marilena-06": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-garganelli-marilena-06.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-garganelli-marilena-07": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-garganelli-marilena-07.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-garganelli-marilena-08": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-garganelli-marilena-08.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-garganelli-marilena-09": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-garganelli-marilena-09.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-garganelli-marilena-10": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-garganelli-marilena-10.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-garganelli-marilena-11": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-garganelli-marilena-11.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-lasagne-luciana-01": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-lasagne-luciana-01.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-lasagne-luciana-02": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-lasagne-luciana-02.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-lasagne-luciana-03": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-lasagne-luciana-03.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-lasagne-luciana-04": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-lasagne-luciana-04.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-lasagne-luciana-05": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-lasagne-luciana-05.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-lasagne-luciana-06": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-lasagne-luciana-06.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-lasagne-luciana-07": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-lasagne-luciana-07.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-lasagne-luciana-08": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-lasagne-luciana-08.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-lasagne-luciana-09": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-lasagne-luciana-09.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-lasagne-luciana-10": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-lasagne-luciana-10.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-lasagne-luciana-11": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-lasagne-luciana-11.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-pollo-arrosto-luciana-01": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-pollo-arrosto-luciana-01.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-pollo-arrosto-luciana-02": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-pollo-arrosto-luciana-02.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-pollo-arrosto-luciana-03": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-pollo-arrosto-luciana-03.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-pollo-arrosto-luciana-04": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-pollo-arrosto-luciana-04.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-pollo-arrosto-luciana-05": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-pollo-arrosto-luciana-05.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-pollo-arrosto-luciana-06": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-pollo-arrosto-luciana-06.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-pollo-arrosto-luciana-07": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-pollo-arrosto-luciana-07.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-pollo-arrosto-luciana-08": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-pollo-arrosto-luciana-08.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-pollo-arrosto-luciana-09": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-pollo-arrosto-luciana-09.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-pollo-arrosto-luciana-10": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-pollo-arrosto-luciana-10.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-pollo-arrosto-luciana-11": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-pollo-arrosto-luciana-11.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-coniglio-marilena-01": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-coniglio-marilena-01.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-coniglio-marilena-02": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-coniglio-marilena-02.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-coniglio-marilena-03": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-coniglio-marilena-03.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-coniglio-marilena-04": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-coniglio-marilena-04.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-coniglio-marilena-05": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-coniglio-marilena-05.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-coniglio-marilena-06": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-coniglio-marilena-06.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-coniglio-marilena-07": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-coniglio-marilena-07.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-coniglio-marilena-08": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-coniglio-marilena-08.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-coniglio-marilena-09": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-coniglio-marilena-09.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-coniglio-marilena-10": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-coniglio-marilena-10.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-coniglio-marilena-11": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-coniglio-marilena-11.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-cotolette-luciana-01": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cotolette-luciana-01.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-cotolette-luciana-02": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cotolette-luciana-02.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cotolette-luciana-03": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cotolette-luciana-03.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cotolette-luciana-04": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cotolette-luciana-04.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cotolette-luciana-05": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cotolette-luciana-05.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cotolette-luciana-06": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cotolette-luciana-06.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cotolette-luciana-07": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cotolette-luciana-07.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cotolette-luciana-08": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cotolette-luciana-08.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cotolette-luciana-09": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cotolette-luciana-09.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cotolette-luciana-10": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cotolette-luciana-10.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-cotolette-luciana-11": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-cotolette-luciana-11.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-rane-marilena-01": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-rane-marilena-01.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-rane-marilena-02": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-rane-marilena-02.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-rane-marilena-03": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-rane-marilena-03.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-rane-marilena-04": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-rane-marilena-04.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-rane-marilena-05": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-rane-marilena-05.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-rane-marilena-06": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-rane-marilena-06.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-rane-marilena-07": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-rane-marilena-07.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-rane-marilena-08": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-rane-marilena-08.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-rane-marilena-09": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-rane-marilena-09.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-rane-marilena-10": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-rane-marilena-10.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-rane-marilena-11": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-rane-marilena-11.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-torta-di-mele-luciana-01": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-torta-di-mele-luciana-01.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-torta-di-mele-luciana-02": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-torta-di-mele-luciana-02.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-torta-di-mele-luciana-03": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-torta-di-mele-luciana-03.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-torta-di-mele-luciana-04": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-torta-di-mele-luciana-04.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-torta-di-mele-luciana-05": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-torta-di-mele-luciana-05.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-torta-di-mele-luciana-06": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-torta-di-mele-luciana-06.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-torta-di-mele-luciana-07": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-torta-di-mele-luciana-07.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-torta-di-mele-luciana-08": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-torta-di-mele-luciana-08.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-torta-di-mele-luciana-09": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-torta-di-mele-luciana-09.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-torta-di-mele-luciana-10": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-torta-di-mele-luciana-10.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-torta-di-mele-luciana-11": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-torta-di-mele-luciana-11.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-crostata-luciana-01": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crostata-luciana-01.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-crostata-luciana-02": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crostata-luciana-02.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crostata-luciana-03": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crostata-luciana-03.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crostata-luciana-04": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crostata-luciana-04.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crostata-luciana-05": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crostata-luciana-05.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crostata-luciana-06": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crostata-luciana-06.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crostata-luciana-07": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crostata-luciana-07.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crostata-luciana-08": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crostata-luciana-08.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crostata-luciana-09": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crostata-luciana-09.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crostata-luciana-10": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crostata-luciana-10.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crostata-luciana-11": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crostata-luciana-11.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-latte-broulet-marilena-01": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-latte-broulet-marilena-01.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-latte-broulet-marilena-02": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-latte-broulet-marilena-02.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-latte-broulet-marilena-03": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-latte-broulet-marilena-03.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-latte-broulet-marilena-04": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-latte-broulet-marilena-04.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-latte-broulet-marilena-05": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-latte-broulet-marilena-05.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-latte-broulet-marilena-06": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-latte-broulet-marilena-06.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-latte-broulet-marilena-07": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-latte-broulet-marilena-07.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-latte-broulet-marilena-08": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-latte-broulet-marilena-08.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-latte-broulet-marilena-09": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-latte-broulet-marilena-09.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-latte-broulet-marilena-10": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-latte-broulet-marilena-10.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-latte-broulet-marilena-11": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-latte-broulet-marilena-11.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-crema-marilena-01": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crema-marilena-01.jpg",
+   "w": 1240,
+   "h": 3508
+  },
+  "booklet-crema-marilena-02": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crema-marilena-02.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crema-marilena-03": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crema-marilena-03.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crema-marilena-04": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crema-marilena-04.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crema-marilena-05": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crema-marilena-05.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crema-marilena-06": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crema-marilena-06.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crema-marilena-07": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crema-marilena-07.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crema-marilena-08": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crema-marilena-08.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crema-marilena-09": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crema-marilena-09.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crema-marilena-10": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crema-marilena-10.jpg",
+   "w": 1400,
+   "h": 1980
+  },
+  "booklet-crema-marilena-11": {
+   "type": "image",
+   "src": "te-fini-hai-finito/booklet-crema-marilena-11.jpg",
+   "w": 1240,
+   "h": 3508
+  }
+ },
+ "soglie-thresholds": {
+  "icona": {
+   "type": "image",
+   "src": "soglie-thresholds/icona.jpg",
+   "w": 2200,
+   "h": 2200
+  },
+  "vetrina": {
+   "type": "image",
+   "src": "soglie-thresholds/vetrina.jpg",
+   "w": 1650,
+   "h": 2200
+  },
+  "leporello-fragola": {
+   "type": "image",
+   "src": "soglie-thresholds/leporello-fragola.jpg",
+   "w": 2200,
+   "h": 633
+  },
+  "leporello-pollo": {
+   "type": "image",
+   "src": "soglie-thresholds/leporello-pollo.jpg",
+   "w": 2200,
+   "h": 713
+  },
+  "fragola-giorni": {
+   "type": "image",
+   "src": "soglie-thresholds/fragola-giorni.jpg",
+   "w": 2200,
+   "h": 1237
+  },
+  "pollo-giorni": {
+   "type": "image",
+   "src": "soglie-thresholds/pollo-giorni.jpg",
+   "w": 2200,
+   "h": 1237
+  },
+  "vetrina-esterno": {
+   "type": "image",
+   "src": "soglie-thresholds/vetrina-esterno.jpg",
+   "w": 1650,
+   "h": 2200
+  },
+  "cartello": {
+   "type": "image",
+   "src": "soglie-thresholds/cartello.jpg",
+   "w": 1650,
+   "h": 2200
+  },
+  "allestimento-1": {
+   "type": "image",
+   "src": "soglie-thresholds/allestimento-1.jpg",
+   "w": 1650,
+   "h": 2200
+  },
+  "allestimento-2": {
+   "type": "image",
+   "src": "soglie-thresholds/allestimento-2.jpg",
+   "w": 1650,
+   "h": 2200
+  },
+  "allestimento-3": {
+   "type": "image",
+   "src": "soglie-thresholds/allestimento-3.jpg",
+   "w": 1650,
+   "h": 2200
+  },
+  "allestimento-4": {
+   "type": "image",
+   "src": "soglie-thresholds/allestimento-4.jpg",
+   "w": 1650,
+   "h": 2200
+  },
+  "allestimento-5": {
+   "type": "image",
+   "src": "soglie-thresholds/allestimento-5.jpg",
+   "w": 1650,
+   "h": 2200
+  },
+  "allestimento-6": {
+   "type": "image",
+   "src": "soglie-thresholds/allestimento-6.jpg",
+   "w": 1650,
+   "h": 2200
+  },
+  "leporello-mano": {
+   "type": "image",
+   "src": "soglie-thresholds/leporello-mano.jpg",
+   "w": 2200,
+   "h": 3300
+  }
+ },
+ "ovora": {
+  "borsa-blu": {
+   "type": "image",
+   "src": "ovora/borsa-blu.jpg",
+   "w": 1395,
+   "h": 1381
+  },
+  "logo": {
+   "type": "image",
+   "src": "ovora/logo.jpg",
+   "w": 1936,
+   "h": 990
+  },
+  "foto-1": {
+   "type": "image",
+   "src": "ovora/foto-1.jpg",
+   "w": 1837,
+   "h": 1175
+  },
+  "foto-2": {
+   "type": "image",
+   "src": "ovora/foto-2.jpg",
+   "w": 1837,
+   "h": 1175
+  },
+  "foto-3": {
+   "type": "image",
+   "src": "ovora/foto-3.jpg",
+   "w": 1837,
+   "h": 1175
+  },
+  "foto-4": {
+   "type": "image",
+   "src": "ovora/foto-4.jpg",
+   "w": 1837,
+   "h": 1175
+  },
+  "borsa-marrone": {
+   "type": "image",
+   "src": "ovora/borsa-marrone.jpg",
+   "w": 1851,
+   "h": 1512
+  },
+  "tag-marrone": {
+   "type": "image",
+   "src": "ovora/tag-marrone.jpg",
+   "w": 2200,
+   "h": 2750
+  },
+  "tag-blu": {
+   "type": "image",
+   "src": "ovora/tag-blu.jpg",
+   "w": 2200,
+   "h": 2750
+  },
+  "simbolo": {
+   "type": "image",
+   "src": "ovora/simbolo.jpg",
+   "w": 2200,
+   "h": 1237
+  },
+  "logo-marrone": {
+   "type": "image",
+   "src": "ovora/logo-marrone.jpg",
+   "w": 1628,
+   "h": 990
+  },
+  "palette": {
+   "type": "image",
+   "src": "ovora/palette.jpg",
+   "w": 1804,
+   "h": 1162
+  },
+  "font": {
+   "type": "image",
+   "src": "ovora/font.jpg",
+   "w": 950,
+   "h": 506
+  },
+  "etichetta-albume-blu": {
+   "type": "image",
+   "src": "ovora/etichetta-albume-blu.jpg",
+   "w": 2200,
+   "h": 823
+  },
+  "etichetta-albume-marrone": {
+   "type": "image",
+   "src": "ovora/etichetta-albume-marrone.jpg",
+   "w": 705,
+   "h": 264
+  },
+  "etichetta-6-uova-blu": {
+   "type": "image",
+   "src": "ovora/etichetta-6-uova-blu.jpg",
+   "w": 2200,
+   "h": 3113
+  },
+  "etichetta-6-uova-marrone": {
+   "type": "image",
+   "src": "ovora/etichetta-6-uova-marrone.jpg",
+   "w": 2200,
+   "h": 3113
+  },
+  "fascia-blu": {
+   "type": "image",
+   "src": "ovora/fascia-blu.jpg",
+   "w": 2200,
+   "h": 3113
+  },
+  "fascia-marrone": {
+   "type": "image",
+   "src": "ovora/fascia-marrone.jpg",
+   "w": 2200,
+   "h": 3113
+  },
+  "sticker": {
+   "type": "image",
+   "src": "ovora/sticker.jpg",
+   "w": 1760,
+   "h": 1089
+  },
+  "packaging-aperto": {
+   "type": "image",
+   "src": "ovora/packaging-aperto.jpg",
+   "w": 1716,
+   "h": 977
+  },
+  "packaging-terra": {
+   "type": "image",
+   "src": "ovora/packaging-terra.jpg",
+   "w": 1716,
+   "h": 977
+  },
+  "moodboard-01": {
+   "type": "image",
+   "src": "ovora/moodboard-01.jpg",
+   "w": 278,
+   "h": 278
+  },
+  "moodboard-02": {
+   "type": "image",
+   "src": "ovora/moodboard-02.jpg",
+   "w": 278,
+   "h": 278
+  },
+  "moodboard-03": {
+   "type": "image",
+   "src": "ovora/moodboard-03.jpg",
+   "w": 279,
+   "h": 278
+  },
+  "moodboard-04": {
+   "type": "image",
+   "src": "ovora/moodboard-04.jpg",
+   "w": 279,
+   "h": 278
+  },
+  "moodboard-05": {
+   "type": "image",
+   "src": "ovora/moodboard-05.jpg",
+   "w": 278,
+   "h": 278
+  },
+  "moodboard-06": {
+   "type": "image",
+   "src": "ovora/moodboard-06.jpg",
+   "w": 279,
+   "h": 278
+  },
+  "moodboard-07": {
+   "type": "image",
+   "src": "ovora/moodboard-07.jpg",
+   "w": 279,
+   "h": 279
+  },
+  "moodboard-08": {
+   "type": "image",
+   "src": "ovora/moodboard-08.jpg",
+   "w": 279,
+   "h": 278
+  },
+  "moodboard-09": {
+   "type": "image",
+   "src": "ovora/moodboard-09.jpg",
+   "w": 278,
+   "h": 278
+  },
+  "moodboard-10": {
+   "type": "image",
+   "src": "ovora/moodboard-10.jpg",
+   "w": 278,
+   "h": 278
+  },
+  "moodboard-11": {
+   "type": "image",
+   "src": "ovora/moodboard-11.jpg",
+   "w": 279,
+   "h": 278
+  },
+  "moodboard-12": {
+   "type": "image",
+   "src": "ovora/moodboard-12.jpg",
+   "w": 278,
+   "h": 278
+  },
+  "moodboard-13": {
+   "type": "image",
+   "src": "ovora/moodboard-13.jpg",
+   "w": 355,
+   "h": 355
+  },
+  "moodboard-14": {
+   "type": "image",
+   "src": "ovora/moodboard-14.jpg",
+   "w": 355,
+   "h": 355
+  },
+  "moodboard-15": {
+   "type": "image",
+   "src": "ovora/moodboard-15.jpg",
+   "w": 355,
+   "h": 355
+  },
+  "moodboard-16": {
+   "type": "image",
+   "src": "ovora/moodboard-16.jpg",
+   "w": 355,
+   "h": 355
+  },
+  "moodboard-17": {
+   "type": "image",
+   "src": "ovora/moodboard-17.jpg",
+   "w": 355,
+   "h": 355
+  },
+  "moodboard-18": {
+   "type": "image",
+   "src": "ovora/moodboard-18.jpg",
+   "w": 355,
+   "h": 355
+  },
+  "moodboard-19": {
+   "type": "image",
+   "src": "ovora/moodboard-19.jpg",
+   "w": 355,
+   "h": 355
+  },
+  "moodboard-20": {
+   "type": "image",
+   "src": "ovora/moodboard-20.jpg",
+   "w": 355,
+   "h": 355
+  }
+ },
+ "lisola-doro": {
+  "barattolo": {
+   "type": "image",
+   "src": "lisola-doro/barattolo.jpg",
+   "w": 2070,
+   "h": 2814
+  },
+  "computer": {
+   "type": "image",
+   "src": "lisola-doro/computer.jpg",
+   "w": 2200,
+   "h": 3300
+  },
+  "foto-1": {
+   "type": "image",
+   "src": "lisola-doro/foto-1.jpg",
+   "w": 2200,
+   "h": 1467
+  },
+  "foto-2": {
+   "type": "image",
+   "src": "lisola-doro/foto-2.jpg",
+   "w": 2200,
+   "h": 1467
+  },
+  "foto-3": {
+   "type": "image",
+   "src": "lisola-doro/foto-3.jpg",
+   "w": 2200,
+   "h": 1467
+  },
+  "foto-4": {
+   "type": "image",
+   "src": "lisola-doro/foto-4.jpg",
+   "w": 2200,
+   "h": 1467
+  },
+  "foto-5": {
+   "type": "image",
+   "src": "lisola-doro/foto-5.jpg",
+   "w": 2200,
+   "h": 1467
+  },
+  "tappo": {
+   "type": "image",
+   "src": "lisola-doro/tappo.jpg",
+   "w": 2200,
+   "h": 1467
+  },
+  "logotipo": {
+   "type": "image",
+   "src": "lisola-doro/logotipo.jpg",
+   "w": 1617,
+   "h": 876
+  },
+  "etichetta-seppia": {
+   "type": "image",
+   "src": "lisola-doro/etichetta-seppia.jpg",
+   "w": 2159,
+   "h": 1165
+  },
+  "etichetta-vongolotte": {
+   "type": "image",
+   "src": "lisola-doro/etichetta-vongolotte.jpg",
+   "w": 2129,
+   "h": 1167
+  },
+  "etichetta-aliciotte": {
+   "type": "image",
+   "src": "lisola-doro/etichetta-aliciotte.jpg",
+   "w": 2175,
+   "h": 1164
+  },
+  "prima-seppia": {
+   "type": "image",
+   "src": "lisola-doro/prima-seppia.jpg",
+   "w": 308,
+   "h": 480
+  },
+  "prima-vongolotte": {
+   "type": "image",
+   "src": "lisola-doro/prima-vongolotte.jpg",
+   "w": 282,
+   "h": 436
+  },
+  "prima-aliciotte": {
+   "type": "image",
+   "src": "lisola-doro/prima-aliciotte.jpg",
+   "w": 738,
+   "h": 1116
+  },
+  "biglietto-1": {
+   "type": "image",
+   "src": "lisola-doro/biglietto-1.jpg",
+   "w": 2200,
+   "h": 3911
+  },
+  "biglietto-2": {
+   "type": "image",
+   "src": "lisola-doro/biglietto-2.jpg",
+   "w": 2200,
+   "h": 3911
+  },
+  "biglietti-tavolo": {
+   "type": "image",
+   "src": "lisola-doro/biglietti-tavolo.jpg",
+   "w": 2200,
+   "h": 2750
+  },
+  "marchio": {
+   "type": "image",
+   "src": "lisola-doro/marchio.jpg",
+   "w": 504,
+   "h": 503
+  },
+  "foto-6": {
+   "type": "image",
+   "src": "lisola-doro/foto-6.jpg",
+   "w": 2200,
+   "h": 1467
+  },
+  "biglietto-fronte": {
+   "type": "image",
+   "src": "lisola-doro/biglietto-fronte.jpg",
+   "w": 2200,
+   "h": 3911
+  },
+  "biglietto-retro": {
+   "type": "image",
+   "src": "lisola-doro/biglietto-retro.jpg",
+   "w": 2200,
+   "h": 3911
+  },
+  "etichetta-vongolotte-piatta": {
+   "type": "image",
+   "src": "lisola-doro/etichetta-vongolotte-piatta.jpg",
+   "w": 1283,
+   "h": 542
+  },
+  "etichetta-aliciotte-piatta": {
+   "type": "image",
+   "src": "lisola-doro/etichetta-aliciotte-piatta.jpg",
+   "w": 1329,
+   "h": 392
+  }
+ },
+ "dolly-noire-stamp": {
+  "stamp-animato": {
+   "type": "video",
+   "src": "dolly-noire-stamp/stamp-animato.mp4",
+   "poster": "dolly-noire-stamp/stamp-animato.jpg",
+   "w": 768,
+   "h": 960
+  },
+  "pattern-foto": {
+   "type": "image",
+   "src": "dolly-noire-stamp/pattern-foto.jpg",
+   "w": 2200,
+   "h": 2750
+  },
+  "stamp": {
+   "type": "image",
+   "src": "dolly-noire-stamp/stamp.jpg",
+   "w": 2200,
+   "h": 2743
+  },
+  "tee-nera-retro": {
+   "type": "image",
+   "src": "dolly-noire-stamp/tee-nera-retro.jpg",
+   "w": 2200,
+   "h": 2200
+  },
+  "tee-nera-fronte": {
+   "type": "image",
+   "src": "dolly-noire-stamp/tee-nera-fronte.jpg",
+   "w": 2200,
+   "h": 2200
+  },
+  "tee-bianca-retro": {
+   "type": "image",
+   "src": "dolly-noire-stamp/tee-bianca-retro.jpg",
+   "w": 2200,
+   "h": 2200
+  },
+  "tee-bianca-fronte": {
+   "type": "image",
+   "src": "dolly-noire-stamp/tee-bianca-fronte.jpg",
+   "w": 2200,
+   "h": 2200
+  },
+  "pattern-1": {
+   "type": "image",
+   "src": "dolly-noire-stamp/pattern-1.jpg",
+   "w": 2200,
+   "h": 3111
+  },
+  "pattern-2": {
+   "type": "image",
+   "src": "dolly-noire-stamp/pattern-2.jpg",
+   "w": 2200,
+   "h": 3111
+  },
+  "moodboard-1": {
+   "type": "image",
+   "src": "dolly-noire-stamp/moodboard-1.jpg",
+   "w": 735,
+   "h": 520
+  },
+  "moodboard-2": {
+   "type": "image",
+   "src": "dolly-noire-stamp/moodboard-2.jpg",
+   "w": 735,
+   "h": 915
+  },
+  "moodboard-3": {
+   "type": "image",
+   "src": "dolly-noire-stamp/moodboard-3.jpg",
+   "w": 473,
+   "h": 396
+  },
+  "moodboard-4": {
+   "type": "image",
+   "src": "dolly-noire-stamp/moodboard-4.jpg",
+   "w": 736,
+   "h": 1166
+  },
+  "moodboard-5": {
+   "type": "image",
+   "src": "dolly-noire-stamp/moodboard-5.jpg",
+   "w": 735,
+   "h": 1042
+  },
+  "moodboard-6": {
+   "type": "image",
+   "src": "dolly-noire-stamp/moodboard-6.jpg",
+   "w": 736,
+   "h": 1123
+  },
+  "moodboard-7": {
+   "type": "image",
+   "src": "dolly-noire-stamp/moodboard-7.jpg",
+   "w": 400,
+   "h": 349
+  },
+  "moodboard-8": {
+   "type": "image",
+   "src": "dolly-noire-stamp/moodboard-8.jpg",
+   "w": 400,
+   "h": 400
+  }
+ },
+ "dolly-noire-pack": {
+  "pack": {
+   "type": "image",
+   "src": "dolly-noire-pack/pack.jpg",
+   "w": 2200,
+   "h": 1650
+  },
+  "tee-blu": {
+   "type": "image",
+   "src": "dolly-noire-pack/tee-blu.jpg",
+   "w": 2200,
+   "h": 2200
+  },
+  "tee-bianca": {
+   "type": "image",
+   "src": "dolly-noire-pack/tee-bianca.jpg",
+   "w": 2200,
+   "h": 2200
+  },
+  "moodboard-1": {
+   "type": "image",
+   "src": "dolly-noire-pack/moodboard-1.jpg",
+   "w": 735,
+   "h": 756
+  },
+  "moodboard-2": {
+   "type": "image",
+   "src": "dolly-noire-pack/moodboard-2.jpg",
+   "w": 600,
+   "h": 620
+  },
+  "moodboard-3": {
+   "type": "image",
+   "src": "dolly-noire-pack/moodboard-3.jpg",
+   "w": 564,
+   "h": 757
+  },
+  "moodboard-4": {
+   "type": "image",
+   "src": "dolly-noire-pack/moodboard-4.jpg",
+   "w": 579,
+   "h": 777
+  },
+  "moodboard-5": {
+   "type": "image",
+   "src": "dolly-noire-pack/moodboard-5.jpg",
+   "w": 1000,
+   "h": 1151
+  },
+  "moodboard-6": {
+   "type": "image",
+   "src": "dolly-noire-pack/moodboard-6.jpg",
+   "w": 838,
+   "h": 844
+  },
+  "prova-iniziale": {
+   "type": "image",
+   "src": "dolly-noire-pack/prova-iniziale.jpg",
+   "w": 1600,
+   "h": 1131
+  }
+ },
+ "about": {
+  "fototessera": {
+   "type": "image",
+   "src": "about/fototessera.jpg",
+   "w": 531,
+   "h": 1600
+  },
+  "logo-no-giallo": {
+   "type": "image",
+   "src": "about/logo-no-giallo.jpg",
+   "w": 1334,
+   "h": 1334
+  },
+  "logo-no-nero": {
+   "type": "image",
+   "src": "about/logo-no-nero.jpg",
+   "w": 1334,
+   "h": 1334
+  },
+  "cv-ita": {
+   "type": "image",
+   "src": "about/cv-ita.jpg",
+   "w": 1600,
+   "h": 2262
+  },
+  "cv-english": {
+   "type": "image",
+   "src": "about/cv-english.jpg",
+   "w": 1600,
+   "h": 2262
+  },
+  "figura-3": {
+   "type": "image",
+   "src": "about/figura-3.png",
+   "w": 443,
+   "h": 925
+  }
+ },
+ "archivio": {
+  "tesi-01": {
+   "type": "image",
+   "src": "archivio/tesi-01.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-02": {
+   "type": "image",
+   "src": "archivio/tesi-02.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-03": {
+   "type": "image",
+   "src": "archivio/tesi-03.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-04": {
+   "type": "image",
+   "src": "archivio/tesi-04.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-05": {
+   "type": "image",
+   "src": "archivio/tesi-05.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-06": {
+   "type": "image",
+   "src": "archivio/tesi-06.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-07": {
+   "type": "image",
+   "src": "archivio/tesi-07.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-08": {
+   "type": "image",
+   "src": "archivio/tesi-08.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-09": {
+   "type": "image",
+   "src": "archivio/tesi-09.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-10": {
+   "type": "image",
+   "src": "archivio/tesi-10.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-11": {
+   "type": "image",
+   "src": "archivio/tesi-11.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-12": {
+   "type": "image",
+   "src": "archivio/tesi-12.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-13": {
+   "type": "image",
+   "src": "archivio/tesi-13.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-14": {
+   "type": "image",
+   "src": "archivio/tesi-14.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-15": {
+   "type": "image",
+   "src": "archivio/tesi-15.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-16": {
+   "type": "image",
+   "src": "archivio/tesi-16.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-17": {
+   "type": "image",
+   "src": "archivio/tesi-17.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-18": {
+   "type": "image",
+   "src": "archivio/tesi-18.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-19": {
+   "type": "image",
+   "src": "archivio/tesi-19.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-20": {
+   "type": "image",
+   "src": "archivio/tesi-20.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-21": {
+   "type": "image",
+   "src": "archivio/tesi-21.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-22": {
+   "type": "image",
+   "src": "archivio/tesi-22.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-23": {
+   "type": "image",
+   "src": "archivio/tesi-23.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-24": {
+   "type": "image",
+   "src": "archivio/tesi-24.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-25": {
+   "type": "image",
+   "src": "archivio/tesi-25.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "tesi-26": {
+   "type": "image",
+   "src": "archivio/tesi-26.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-01": {
+   "type": "image",
+   "src": "archivio/ovora-01.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-02": {
+   "type": "image",
+   "src": "archivio/ovora-02.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-03": {
+   "type": "image",
+   "src": "archivio/ovora-03.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-04": {
+   "type": "image",
+   "src": "archivio/ovora-04.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-05": {
+   "type": "image",
+   "src": "archivio/ovora-05.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-06": {
+   "type": "image",
+   "src": "archivio/ovora-06.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-07": {
+   "type": "image",
+   "src": "archivio/ovora-07.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-08": {
+   "type": "image",
+   "src": "archivio/ovora-08.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-09": {
+   "type": "image",
+   "src": "archivio/ovora-09.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-10": {
+   "type": "image",
+   "src": "archivio/ovora-10.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-11": {
+   "type": "image",
+   "src": "archivio/ovora-11.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-12": {
+   "type": "image",
+   "src": "archivio/ovora-12.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-13": {
+   "type": "image",
+   "src": "archivio/ovora-13.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-14": {
+   "type": "image",
+   "src": "archivio/ovora-14.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-15": {
+   "type": "image",
+   "src": "archivio/ovora-15.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-16": {
+   "type": "image",
+   "src": "archivio/ovora-16.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-17": {
+   "type": "image",
+   "src": "archivio/ovora-17.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-18": {
+   "type": "image",
+   "src": "archivio/ovora-18.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-19": {
+   "type": "image",
+   "src": "archivio/ovora-19.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-20": {
+   "type": "image",
+   "src": "archivio/ovora-20.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-21": {
+   "type": "image",
+   "src": "archivio/ovora-21.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-22": {
+   "type": "image",
+   "src": "archivio/ovora-22.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-23": {
+   "type": "image",
+   "src": "archivio/ovora-23.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-24": {
+   "type": "image",
+   "src": "archivio/ovora-24.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-25": {
+   "type": "image",
+   "src": "archivio/ovora-25.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-26": {
+   "type": "image",
+   "src": "archivio/ovora-26.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-27": {
+   "type": "image",
+   "src": "archivio/ovora-27.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-28": {
+   "type": "image",
+   "src": "archivio/ovora-28.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-29": {
+   "type": "image",
+   "src": "archivio/ovora-29.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-30": {
+   "type": "image",
+   "src": "archivio/ovora-30.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-31": {
+   "type": "image",
+   "src": "archivio/ovora-31.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-32": {
+   "type": "image",
+   "src": "archivio/ovora-32.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-33": {
+   "type": "image",
+   "src": "archivio/ovora-33.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-34": {
+   "type": "image",
+   "src": "archivio/ovora-34.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-35": {
+   "type": "image",
+   "src": "archivio/ovora-35.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-36": {
+   "type": "image",
+   "src": "archivio/ovora-36.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-37": {
+   "type": "image",
+   "src": "archivio/ovora-37.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "ovora-38": {
+   "type": "image",
+   "src": "archivio/ovora-38.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-01": {
+   "type": "image",
+   "src": "archivio/isola-01.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-02": {
+   "type": "image",
+   "src": "archivio/isola-02.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-03": {
+   "type": "image",
+   "src": "archivio/isola-03.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-04": {
+   "type": "image",
+   "src": "archivio/isola-04.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-05": {
+   "type": "image",
+   "src": "archivio/isola-05.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-06": {
+   "type": "image",
+   "src": "archivio/isola-06.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-07": {
+   "type": "image",
+   "src": "archivio/isola-07.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-08": {
+   "type": "image",
+   "src": "archivio/isola-08.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-09": {
+   "type": "image",
+   "src": "archivio/isola-09.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-10": {
+   "type": "image",
+   "src": "archivio/isola-10.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-11": {
+   "type": "image",
+   "src": "archivio/isola-11.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-12": {
+   "type": "image",
+   "src": "archivio/isola-12.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-13": {
+   "type": "image",
+   "src": "archivio/isola-13.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-14": {
+   "type": "image",
+   "src": "archivio/isola-14.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-15": {
+   "type": "image",
+   "src": "archivio/isola-15.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-16": {
+   "type": "image",
+   "src": "archivio/isola-16.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-17": {
+   "type": "image",
+   "src": "archivio/isola-17.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-18": {
+   "type": "image",
+   "src": "archivio/isola-18.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-19": {
+   "type": "image",
+   "src": "archivio/isola-19.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-20": {
+   "type": "image",
+   "src": "archivio/isola-20.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-21": {
+   "type": "image",
+   "src": "archivio/isola-21.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-22": {
+   "type": "image",
+   "src": "archivio/isola-22.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-23": {
+   "type": "image",
+   "src": "archivio/isola-23.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-24": {
+   "type": "image",
+   "src": "archivio/isola-24.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-25": {
+   "type": "image",
+   "src": "archivio/isola-25.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-26": {
+   "type": "image",
+   "src": "archivio/isola-26.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-27": {
+   "type": "image",
+   "src": "archivio/isola-27.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-28": {
+   "type": "image",
+   "src": "archivio/isola-28.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "isola-29": {
+   "type": "image",
+   "src": "archivio/isola-29.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  "brief-ovora": {
+   "type": "image",
+   "src": "archivio/brief-ovora.jpg",
+   "w": 1600,
+   "h": 2262
+  },
+  "brief-soglie": {
+   "type": "image",
+   "src": "archivio/brief-soglie.jpg",
+   "w": 1600,
+   "h": 2262
+  },
+  "brief-dolly-noire": {
+   "type": "image",
+   "src": "archivio/brief-dolly-noire.jpg",
+   "w": 1600,
+   "h": 2262
+  },
+  "brief-farcito": {
+   "type": "image",
+   "src": "archivio/brief-farcito.jpg",
+   "w": 1600,
+   "h": 2262
+  }
+ },
+ "farcito": {
+  "tee-01": {
+   "type": "image",
+   "src": "farcito/tee-01.jpg",
+   "w": 1600,
+   "h": 2263
+  },
+  "tee-02": {
+   "type": "image",
+   "src": "farcito/tee-02.jpg",
+   "w": 1600,
+   "h": 2263
+  },
+  "tee-03": {
+   "type": "image",
+   "src": "farcito/tee-03.jpg",
+   "w": 1600,
+   "h": 2262
+  },
+  "tee-04": {
+   "type": "image",
+   "src": "farcito/tee-04.jpg",
+   "w": 1600,
+   "h": 2263
+  },
+  "tee-05": {
+   "type": "image",
+   "src": "farcito/tee-05.jpg",
+   "w": 1600,
+   "h": 2263
+  },
+  "tee-06": {
+   "type": "image",
+   "src": "farcito/tee-06.jpg",
+   "w": 1600,
+   "h": 2262
+  },
+  "tee-07": {
+   "type": "image",
+   "src": "farcito/tee-07.jpg",
+   "w": 1600,
+   "h": 2262
+  },
+  "tee-08": {
+   "type": "image",
+   "src": "farcito/tee-08.jpg",
+   "w": 1600,
+   "h": 2261
+  },
+  "tee-09": {
+   "type": "image",
+   "src": "farcito/tee-09.jpg",
+   "w": 1600,
+   "h": 2262
+  },
+  "tee-10": {
+   "type": "image",
+   "src": "farcito/tee-10.jpg",
+   "w": 1600,
+   "h": 2262
+  },
+  "tee-11": {
+   "type": "image",
+   "src": "farcito/tee-11.jpg",
+   "w": 1600,
+   "h": 2263
+  },
+  "tee-12": {
+   "type": "image",
+   "src": "farcito/tee-12.jpg",
+   "w": 1600,
+   "h": 2263
+  },
+  "tee-13": {
+   "type": "image",
+   "src": "farcito/tee-13.jpg",
+   "w": 1600,
+   "h": 2262
+  },
+  "tee-14": {
+   "type": "image",
+   "src": "farcito/tee-14.jpg",
+   "w": 1600,
+   "h": 2263
+  },
+  "tee-15": {
+   "type": "image",
+   "src": "farcito/tee-15.jpg",
+   "w": 1600,
+   "h": 2263
+  },
+  "tee-16": {
+   "type": "image",
+   "src": "farcito/tee-16.jpg",
+   "w": 1600,
+   "h": 2263
+  },
+  "tee-17": {
+   "type": "image",
+   "src": "farcito/tee-17.jpg",
+   "w": 1600,
+   "h": 2263
+  },
+  "tee-18": {
+   "type": "image",
+   "src": "farcito/tee-18.jpg",
+   "w": 1600,
+   "h": 2262
+  },
+  "tee-19": {
+   "type": "image",
+   "src": "farcito/tee-19.jpg",
+   "w": 1600,
+   "h": 2263
+  },
+  "tee-20": {
+   "type": "image",
+   "src": "farcito/tee-20.jpg",
+   "w": 1600,
+   "h": 2263
+  },
+  "illustrazione": {
+   "type": "image",
+   "src": "farcito/illustrazione.jpg",
+   "w": 2200,
+   "h": 3112
+  },
+  "cornetto": {
+   "type": "image",
+   "src": "farcito/cornetto.jpg",
+   "w": 2200,
+   "h": 3112
+  },
+  "caffe": {
+   "type": "image",
+   "src": "farcito/caffe.jpg",
+   "w": 1711,
+   "h": 1711
+  },
+  "foto-1": {
+   "type": "image",
+   "src": "farcito/foto-1.jpg",
+   "w": 2200,
+   "h": 2933
+  },
+  "foto-2": {
+   "type": "image",
+   "src": "farcito/foto-2.jpg",
+   "w": 2200,
+   "h": 3911
+  },
+  "foto-3": {
+   "type": "image",
+   "src": "farcito/foto-3.jpg",
+   "w": 1152,
+   "h": 2048
+  }
+ },
+ "fotografia-analogica": {
+  "mostra-foto": {
+   "type": "image",
+   "src": "fotografia-analogica/mostra-foto.jpg",
+   "w": 2087,
+   "h": 3288
+  },
+  "mostra-locandina": {
+   "type": "image",
+   "src": "fotografia-analogica/mostra-locandina.jpg",
+   "w": 1290,
+   "h": 2293
+  },
+  "mostra-artista": {
+   "type": "image",
+   "src": "fotografia-analogica/mostra-artista.jpg",
+   "w": 1200,
+   "h": 1200
+  },
+  "mostra-sala": {
+   "type": "image",
+   "src": "fotografia-analogica/mostra-sala.jpg",
+   "w": 1290,
+   "h": 1606
+  },
+  "giappone-01": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-01.jpg",
+   "w": 1365,
+   "h": 2048
+  },
+  "giappone-02": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-02.jpg",
+   "w": 1365,
+   "h": 2048
+  },
+  "giappone-03": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-03.jpg",
+   "w": 1365,
+   "h": 2048
+  },
+  "giappone-04": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-04.jpg",
+   "w": 1463,
+   "h": 2048
+  },
+  "giappone-05": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-05.jpg",
+   "w": 1600,
+   "h": 2564
+  },
+  "giappone-06": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-06.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "giappone-07": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-07.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "giappone-08": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-08.jpg",
+   "w": 1365,
+   "h": 2048
+  },
+  "giappone-09": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-09.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "giappone-10": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-10.jpg",
+   "w": 1416,
+   "h": 2048
+  },
+  "giappone-11": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-11.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "giappone-12": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-12.jpg",
+   "w": 1365,
+   "h": 2048
+  },
+  "giappone-13": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-13.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "giappone-14": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-14.jpg",
+   "w": 1600,
+   "h": 2407
+  },
+  "giappone-15": {
+   "type": "image",
+   "src": "fotografia-analogica/giappone-15.jpg",
+   "w": 1390,
+   "h": 2048
+  },
+  "tesi-01": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-01.jpg",
+   "w": 1188,
+   "h": 1779
+  },
+  "tesi-02": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-02.jpg",
+   "w": 1180,
+   "h": 1785
+  },
+  "tesi-03": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-03.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "tesi-04": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-04.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "tesi-05": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-05.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "tesi-06": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-06.jpg",
+   "w": 1365,
+   "h": 2048
+  },
+  "tesi-07": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-07.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "tesi-08": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-08.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "tesi-09": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-09.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "tesi-10": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-10.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "tesi-11": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-11.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "tesi-12": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-12.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "tesi-13": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-13.jpg",
+   "w": 1304,
+   "h": 2048
+  },
+  "tesi-14": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-14.jpg",
+   "w": 1293,
+   "h": 2048
+  },
+  "tesi-15": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-15.jpg",
+   "w": 1600,
+   "h": 1010
+  },
+  "tesi-16": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-16.jpg",
+   "w": 1295,
+   "h": 2048
+  },
+  "tesi-17": {
+   "type": "image",
+   "src": "fotografia-analogica/tesi-17.jpg",
+   "w": 1301,
+   "h": 2048
+  },
+  "sperimentazione-1": {
+   "type": "image",
+   "src": "fotografia-analogica/sperimentazione-1.jpg",
+   "w": 1600,
+   "h": 1067
+  },
+  "sperimentazione-2": {
+   "type": "image",
+   "src": "fotografia-analogica/sperimentazione-2.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "sperimentazione-3": {
+   "type": "image",
+   "src": "fotografia-analogica/sperimentazione-3.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "sperimentazione-4": {
+   "type": "image",
+   "src": "fotografia-analogica/sperimentazione-4.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "sperimentazione-5": {
+   "type": "image",
+   "src": "fotografia-analogica/sperimentazione-5.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "sperimentazione-6": {
+   "type": "image",
+   "src": "fotografia-analogica/sperimentazione-6.jpg",
+   "w": 1600,
+   "h": 2400
+  },
+  "sperimentazione-7": {
+   "type": "image",
+   "src": "fotografia-analogica/sperimentazione-7.jpg",
+   "w": 1600,
+   "h": 2400
+  }
+ }
+}
